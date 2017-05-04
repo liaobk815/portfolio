@@ -53,7 +53,6 @@ h2 {
     text-align: center;
     font-family: 'Questrial', sans-serif;
     font-size: 20px;
-    margin: 30px 0px 30px 200px;
     word-spacing: 1px;
     line-height: 30px;
 }
@@ -75,9 +74,8 @@ section.container {
 .h2-color {
     background-color: white;
     margin-top: 130px;
-    text-align: left;
-    margin-left: 20px;
-    margin-right: 130px;
+    margin-right: 100px;
+    text-align: justify;
 }
 /* Style the tab buttons */
 .tablink {
@@ -138,8 +136,6 @@ section.container {
     margin-top: 100px;
     margin-left: 130px;
 }
-
-
 
 .social-media {
     margin: 100px 10px 10px 10px;
