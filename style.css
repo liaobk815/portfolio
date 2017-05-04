@@ -66,6 +66,12 @@ h3 {
     line-height: 30px;
 }
 
+section.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .h2-color {
     background-color: white;
     margin-top: 130px;
@@ -166,7 +172,7 @@ h3 {
 .printmaking-img {
     margin: 0 40px 0 40px;
     display: inline-block;
-    padding: 30px 30px 30px 50px;
+    padding: 30px 50px 30px 50px;
 }
 
 .poker-image {
@@ -194,7 +200,7 @@ h3 {
 .printmaking-right {
     margin: 0 40px 0 40px;
     display: inline-block;
-    padding: 30px 30px 30px 100px;
+    padding: 30px 50px 30px 100px;
 }
 
 .drawing-right {
@@ -223,7 +229,7 @@ h3 {
 
 .mage-title {
     background-color: lightsteelblue;
-    margin: 20px 400px 20px 400px;
+    margin: 20px 300px 20px 300px;
     text-align: center;
     font-size: 40px;
 }
