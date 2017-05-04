@@ -21,6 +21,7 @@ body {
 }
 
 header img {
+    margin: auto;
     display: block;
     padding: 50px;
 }
