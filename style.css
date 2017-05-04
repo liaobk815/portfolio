@@ -1,0 +1,237 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+/* Header */
+
+body header footer{
+    margin: 2em;
+    padding: 0;
+    background-color: #fff;
+    font-size: 1em;
+}
+
+body {
+    background-image: url(my-icons/background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.prof-logo {
+    margin: auto; 
+}
+
+header img {
+    display: block;
+    padding: 50px;
+}
+
+article img {
+    margin: auto;
+    display: block;
+}
+
+.about-me {
+    margin: auto;
+    display: inline-block;
+    display: flex;
+}
+/* fontsize */
+
+h1 {
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 30px;
+}
+
+.h1-color {
+    background-color: white;
+    margin: 150px 100px 50px 100px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    margin: 30px 200px 30px 200px;
+    word-spacing: 4px;
+    line-height: 30px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    word-spacing: 4px;
+    line-height: 30px;
+}
+
+.h2-color {
+    background-color: white;
+    margin-top: 130px;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 130px;
+}
+/* Style the tab buttons */
+.tablink {
+    font-family: 'Cookie', cursive;
+    color: #EFA8A8;
+    background-color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 0px 14px 0px;
+    font-size: 30px;
+    width: 25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.tablinks {
+    font-family: 'Cookie', cursive;
+    color: #82C7E0;
+    background-color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 0px 14px 0px;
+    font-size: 30px;
+    width: 25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Change background color of buttons on hover */
+.tablink:hover {
+    background-color: hsl(0, 69%, 87%);
+    color: black;
+}
+
+.tablinks:hover {
+    background-color: hsl(196, 60%, 79%);
+    color: black;
+}
+
+.logo {
+    margin: auto;
+    display: block;
+    margin-top: 350px;
+}
+
+.right-part {
+    width: 62%;
+    float: right;
+}
+
+.left-part {
+    float: left;
+    width: 25%;
+    margin-top: 100px;
+    margin-left: 130px;
+}
+
+
+
+.social-media {
+    margin: 100px 10px 10px 10px;
+}
+
+.painting-image {
+    margin: 0px 50px 0px 50px; 
+}
+
+.drawing-image {
+    margin: 0px 50px 0px 50px; 
+}
+
+.drawing-img {
+    margin: 0 40px 0 20px;
+    display: inline-block;
+    padding: 30px 30px 30px 50px;
+}
+
+.drawing-mid {
+    margin: 0 40px 0 20px;
+    display: inline-block;
+    padding: 30px 10px 30px 10px;
+}
+
+.printmaking-image {
+    margin: 0px 50px 0px 50px; 
+}
+
+.printmaking-img {
+    margin: 0 40px 0 40px;
+    display: inline-block;
+    padding: 30px 30px 30px 50px;
+}
+
+.poker-image {
+    margin: 0px 50px 0px 50px; 
+}
+
+.poker-img {
+    margin: 0 20px 0 20px;
+    display: inline-block;
+    padding: 30px 30px 30px 50px;
+}
+
+.poker-left {
+    margin: 0 20px 0 20px;
+    display: inline-block;
+    padding: 30px 0px 30px 50px;
+}
+
+.poker-top {
+    margin: 0 10px 0 10px;
+    display: inline-block;
+    padding: 30px 10px 30px 50px;
+}
+
+.printmaking-right {
+    margin: 0 40px 0 40px;
+    display: inline-block;
+    padding: 30px 30px 30px 100px;
+}
+
+.drawing-right {
+    margin: 0 40px 0 20px;
+    display: inline-block;
+    padding: 30px 30px 30px 100px;
+}
+
+.drawing-m {
+    margin: 0 40px 0 20px;
+    display: inline-block;
+    padding: 30px 0px 30px 90px;
+}
+
+.painting-img {
+    margin: 0 40px 0 20px;
+    display: inline-block;
+    padding: 30px 30px 30px 50px;
+}
+
+.painting-right {
+    margin: 0 40px 0 20px;
+    display: inline-block;
+    padding: 30px 30px 30px 100px;
+}
+
+.mage-title {
+    background-color: lightsteelblue;
+    margin: 20px 400px 20px 400px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.highlight {
+    color: firebrick;
+}
+
+.link-color {
+    color: black;
+}
