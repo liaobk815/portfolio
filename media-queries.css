@@ -4,6 +4,14 @@ smaller than 980
 
 
 @media screen and (max-width: 980px){
+    header img {
+        height: 250px;
+        margin: auto;
+        display: block;
+        margin-bottom: -50px;
+        margin-top: -30px;
+    }
+    
     .left-part {
         width: 40%;
         align-items: center;
@@ -11,13 +19,90 @@ smaller than 980
     }
     
     .right-part{
+        margin: auto;
+        display: block;
         align-content: center;
         width:100%;
-        padding-left: 140px;
+        
     }
     
     .h2-color {
         align-content: center;
+        margin-right: 45px;
+        margin-left: 60px;
+    }
+    
+    .painting-img {
+        margin: auto;
+        display: block;
+        height: 100px;
+        margin-top: 10px;
+        margin-bottom: 130px;
+        padding: 10px 0px 10px 130px;
+    }
+    
+    .painting-right {
+        margin: auto;
+        display: block;
+        height: 100px;
+        margin-top: 10px;
+        margin-bottom: 130px;
+        padding: 10px 0px 10px 130px;
+    }
+    
+    .drawing-img {
+        margin: auto;
+        display: block;
+        height: 100px;
+        margin-top: 10px;
+        margin-bottom: 130px;
+        padding: 10px 0px 10px 130px;
+    }
+    
+    .drawing-m {
+        margin: auto;
+        display: block;
+        height: 100px;
+        margin-top: 10px;
+        margin-bottom: 130px;
+        padding: 10px 0px 10px 130px;
+    }
+    
+    .drawing-mid {
+        margin: auto;
+        display: block;
+        height: 100px;
+        margin-top: 10px;
+        margin-bottom: 130px;
+        padding: 10px 0px 10px 130px;
+    }
+    
+    .drawing-right {
+        margin: auto;
+        display: block;
+        height: 100px;
+        margin-top: 10px;
+        margin-bottom: 130px;
+        padding: 10px 0px 10px 130px;
+    }
+    
+    .printmaking-right {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 230px;
+        margin: auto;
+    }
+    
+    .printmaking-img {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 230px;
+        margin: auto;
+    }
+    
+    .mage-title {
+        font-size: 30px;
+        margin: 20px 200px 20px 200px;
     }
 }
 
@@ -26,6 +111,30 @@ smaller than 650
 *************************************************************************************/
 
 @media screen and (max-width:650px){
+    
+    header img {
+        height: 230px;
+        margin: auto;
+        display: block;
+        margin-bottom: -50px;
+        margin-top: -30px;
+    }
+    
+    .tablink{
+        font-size: 30px;
+        margin-left: 120px;
+        margin-right: 30px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    .tablinks {
+        font-size: 30px;
+        margin-left: 30px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+    
     .left-part {
         width: 40%;
         margin-left: 180px;
@@ -33,10 +142,93 @@ smaller than 650
     
     .right-part{
         align-content: center;
-        
     }
     
+    .h1-color {
+        font-size: 25px;
+        padding-bottom: 30px;
+        margin-bottom: 10px;
+        padding-top: 30px;
+    }
     
+    .h2-color {
+        font-size: 20px;
+        margin-right: 45px;
+        margin-left: 50px;
+    }
+    
+    .painting-img {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 130px;
+        margin-top: 10px;
+        margin-bottom: 120px;
+    }
+    
+    .painting-right {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 130px;
+        margin-top: 10px;
+        margin-bottom: 120px;
+    }
+    
+    .drawing-img {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 130px;
+        margin-top: 10px;
+        margin-bottom: 120px;
+    }
+    
+    .drawing-m {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 130px;
+        margin-top: 10px;
+        margin-bottom: 120px;
+    }
+    
+    .drawing-mid {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 130px;
+        margin-top: 10px;
+        margin-bottom: 120px;
+    }
+    
+    .drawing-right {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 130px;
+        margin-top: 10px;
+        margin-bottom: 120px;
+    }
+    
+    .printmaking-right {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 130px;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    
+    .printmaking-img {
+        margin: auto;
+        display: block;
+        padding: 10px 0px 10px 130px;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    
+    article img {
+        width: 500px;
+    }
+    
+    .mage-title {
+        font-size: 25px;
+        margin: 20px 100px 20px 100px;
+    }
 }
 
 /************************************************************************************
